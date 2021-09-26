@@ -15,7 +15,7 @@
 
 ## Vendors
 
-Vendors - `src/js/vendors/` third party libraries (jQuery, slick, ...)
+Vendors - `src/js/vendors/` third party libraries ( jQuery, slick, ... )
 
 ## Installation
 
