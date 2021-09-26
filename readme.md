@@ -13,7 +13,8 @@
 - [panini] - A super simple flat file generator for use with Gulp. It compiles a series of HTML pages using a common layout. These pages can also include HTML partials, external Handlebars helpers, or external data as JSON or YAML
 - [del] - Delete files and directories using globs
 
-Vendors - third party libraries (jQuery, slick, ...)
+##Vendors 
+Vendors - `src/js/vendors/` third party libraries (jQuery, slick, ...)
 
 ## Installation
 
