@@ -1,7 +1,7 @@
 # Стартовый шаблон для верстки с Gulp 4
 - [node.js] - evented I/O for the backend
 - [Gulp] - the streaming build system
-- [browser-sync] - Browsersync + Gulp.js
+- [browser-sync] - Browsersync + Gulp.js (web server)
 - [gulp-uglify-es] - gulp stream to uglify with 'terser'
 - [gulp-autoprefixer] - Prefix CSS with Autoprefixer
 - [gulp-sass] - Sass plugin for Gulp
@@ -12,6 +12,8 @@
 - [gulp-plumber] - Prevent pipe breaking caused by errors from gulp plugins
 - [panini] - A super simple flat file generator for use with Gulp. It compiles a series of HTML pages using a common layout. These pages can also include HTML partials, external Handlebars helpers, or external data as JSON or YAML
 - [del] - Delete files and directories using globs
+
+Vendors - third party libraries (jQuery, slick, ...)
 
 ## Installation
 
