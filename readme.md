@@ -13,9 +13,6 @@
 - [panini] - A super simple flat file generator for use with Gulp. It compiles a series of HTML pages using a common layout. These pages can also include HTML partials, external Handlebars helpers, or external data as JSON or YAML
 - [del] - Delete files and directories using globs
 
-Third party libraries 
-- [jQuery] - duh
-
 ## Installation
 
 Requires [Node.js](https://nodejs.org/) v14+ to run.
@@ -28,7 +25,7 @@ npm i -D
 gulp
 ```
 
-## Cleanin `dist` folder
+## Cleaning `dist` folder
 ```sh
 gulp clean
 ```
